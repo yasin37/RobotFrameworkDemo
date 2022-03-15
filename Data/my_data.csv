@@ -1,0 +1,7 @@
+*** Test Cases ***;${username};${password};${expectedResult}
+Invalid username;dsahed;learning;Incorrect username/password.
+Invalid password;rahulshetty;ploudfg;Incorrect username/password.
+special characters;@#$;learning;Incorrect username/password.
+;1234;4242;Incorrect username/password.
+Empty Username;;learning;Empty username/password.
+Empty Password;rahulshetty;;Empty username/password.

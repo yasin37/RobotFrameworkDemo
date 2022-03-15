@@ -1,0 +1,16 @@
+==============================================================================
+Tests                                                                         
+==============================================================================
+Tests.DemoTest1 :: To validate the Login form                                 
+==============================================================================
+Validate Cards display in the Shopping Page                           | PASS |
+------------------------------------------------------------------------------
+Select the Form and Navigate the Child Window                         | PASS |
+------------------------------------------------------------------------------
+Tests.DemoTest1 :: To validate the Login form                         | PASS |
+2 tests, 2 passed, 0 failed
+==============================================================================
+Tests                                                                 | PASS |
+2 tests, 2 passed, 0 failed
+==============================================================================
+Output:  D:\workspace_python\RahulUdemy\Results\pabot_results\1\output.xml
