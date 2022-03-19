@@ -25,7 +25,7 @@ Validate Cards display in the Shopping Page
 
 
 Select the Form and Navigate the Child Window
-    [Tags]    Current    Smoke
+    [Tags]    Current
     Fill the Login Details and Login Form    ${user_name}    ${valid_password}
 
 *** Keywords ***
