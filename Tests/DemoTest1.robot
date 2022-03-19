@@ -17,7 +17,7 @@ ${PhoneName} =    Nokia Edge
 *** Test Cases ***
 
 Validate Cards display in the Shopping Page
-    [Tags]    Smoke
+    [Tags]    Smoke    Sanity
     Fill the login Form    ${user_name}    ${valid_password}
     Verify Card titles in the Shop page
     hello world
