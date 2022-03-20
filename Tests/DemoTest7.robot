@@ -27,7 +27,7 @@ Validate Cards display in the Shopping Page
     Select the Card    Nokia Edge
 
 Select the Form and navigate to Child window
-    [Tags]    Current
+    [Tags]    Current  T2T
     Fill the Login Details and Login Form    ${user_name}    ${valid_password}
     wait until element is visible    ${Shop_Page_Load_Element}
 
