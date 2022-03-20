@@ -14,7 +14,7 @@ ${Shop_Page_Load_Element}    //h1[contains(text(),'Shop Name')]
 
 *** Test Cases ***
 Validate UnSuccesful Login
-    [Tags]    Smoke
+    [Tags]    Smoke    Sanity
     Fill the login form    ${username}    ${invalid_password}
     wait until Element is located in the page    ${Error_Message_Login_Element}
     Verify error message is correct
